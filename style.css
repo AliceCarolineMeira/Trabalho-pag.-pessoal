@@ -1,0 +1,41 @@
+img{
+    width:250px;
+    height:250px;
+    margin: auto;
+    display: block;
+    border-radius: 100%;
+}
+
+body{
+    background-color: #b99984;
+    }
+
+.botoes{
+    border-radius:20%;
+    background-color:#260307;
+    font-family: arial; color: #ffffff;
+    text-align:center;
+    display: inline-block; 
+    position: relative; 
+    padding: 20px;
+    text-decoration: none;
+    margin: auto;
+    }
+    
+.projetos{
+    margin: auto;
+    color: #1b2618*;
+    list-style-type: circle;
+    padding: 20px;
+    list-style-position:outside;
+    margin-left:0; 
+    padding-left:0;
+    position:relative;
+}
+
+footer{
+    margin: auto;
+    font-size: 18px;
+    color: #492b29;
+    border-style: double;
+}
